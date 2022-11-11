@@ -1,5 +1,4 @@
 import { Directive, OnDestroy, Renderer2 } from '@angular/core';
-import { Observable, Subscription } from 'rxjs';
 
 @Directive({
   selector: '[listener]',
